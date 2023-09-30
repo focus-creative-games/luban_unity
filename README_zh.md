@@ -33,13 +33,16 @@ luban标准化了游戏配置开发工作流，可以极大提升策划和程序
 
 ## 文档
 
+- [Luban](https://github.com/focus-creative-games/luban)
 - [官方文档](https://luban.doc.code-philosophy.com/)
 - [快速上手](https://luban.doc.code-philosophy.com/docs/beginner/quickstart)
 - **示例项目** ([github](https://github.com/focus-creative-games/luban_examples)) ([gitee](https://gitee.com/focus-creative-games/luban_examples))
-- 支持与联系
-  - QQ群: 692890842 （Luban开发交流群）
-  - discord: https://discord.gg/dGY4zzGMJ4
-  - 邮箱: luban@code-philosophy.com
+
+## 支持与联系
+
+ - QQ群: 692890842 （Luban开发交流群）
+ - discord: https://discord.gg/dGY4zzGMJ4
+ - 邮箱: luban#code-philosophy.com
 
 ## license
 
