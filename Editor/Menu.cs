@@ -7,11 +7,11 @@ namespace Luban.Editor
     {
 
         [MenuItem("Luban/About", priority = 0)]
-        public static void OpenAbout() => Application.OpenURL("https://luban.doc.code-philosophy.com/docs/intro");
+        public static void OpenAbout() => Application.OpenURL("https://www.datable.cn/docs/intro");
 
 
         [MenuItem("Luban/Quick Start")]
-        public static void OpenQuickStart() => Application.OpenURL("https://luban.doc.code-philosophy.com/docs/beginner/quickstart");
+        public static void OpenQuickStart() => Application.OpenURL("https://www.datable.cn/docs/beginner/quickstart");
     }
 
 }
